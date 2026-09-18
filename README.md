@@ -6,7 +6,7 @@ A responsive portfolio showcasing my software projects, technical skills, educat
 
 ## Featured work
 
-- **Inventory & Billing System** — Flask and SQLite application with inventory tracking, billing, role-based accounts, and activity logs.
+- **[AssetFlow — Inventory & Billing System](https://github.com/jackgarr/assetflow)** — Flask and SQLite application with inventory tracking, billing, role-based accounts, and activity logs.
 - **AgentFlow** — AI-agent capstone focused on LLM workflows, API integrations, requirements, testing, and system design.
 - **GPU Programming** — PyTorch experiments comparing CPU and GPU execution for parallel workloads.
 
