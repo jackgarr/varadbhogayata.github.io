@@ -1,26 +1,39 @@
 # Jackson Garrett — Portfolio
 
-Personal portfolio for Jackson Garrett, a Computer Science student at the University of Michigan-Flint graduating in December 2026.
+A clean, responsive portfolio showcasing my software projects, technical skills, and education.
 
-## Highlights
+**Live site:** [jackgarr.github.io/portfolio](https://jackgarr.github.io/portfolio/)
 
-- Responsive, accessible single-page design
-- Selected projects and technical skills
-- Plain HTML and CSS with no build step
-- Ready for GitHub Pages
+## Featured work
+
+- **Inventory & Billing System** — A Flask and SQLite application for inventory, billing, and sales workflows.
+- **GPU Programming** — Parallel-computing experiments and performance work with Python and PyTorch.
+- **Personal Portfolio** — This responsive site, built from scratch and hosted with GitHub Pages.
+
+## Built with
+
+- HTML5
+- CSS3
+- GitHub Pages
+
+## Project structure
+
+```text
+portfolio/
+├── index.html
+├── assets/
+│   └── css/
+│       └── style.css
+├── README.md
+└── LICENSE
+```
 
 ## Run locally
 
-Open `index.html` in a browser. No installation or build command is required.
-
-## Before publishing
-
-- Add the Inventory & Billing System repository link when it is uploaded
-- Add project screenshots once available
-- Update project details as new work is completed
+Clone the repository and open `index.html` in your browser. No build step or dependencies are required.
 
 ## Contact
 
 - [GitHub](https://github.com/jackgarr)
-- [LinkedIn](https://www.linkedin.com/in/jackson-garrett-26b7a0340/)
+- [LinkedIn](https://www.linkedin.com/in/jackson-garrett-77b285296/)
 - [Email](mailto:jackgarr@umich.edu)
